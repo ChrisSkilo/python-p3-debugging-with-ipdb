@@ -7,3 +7,4 @@ def plus_two(num):
    # ipdb.set_trace()
     return num
 result = plus_two(3)
+print(result)
